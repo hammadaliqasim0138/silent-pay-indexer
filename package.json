@@ -53,7 +53,7 @@
     "typeorm": "^0.3.20"
   },
   "devDependencies": {
-    "@nestjs/cli": "^10.4.5",
+    "@nestjs/cli": "^11.0.16",
     "@nestjs/schematics": "^9.0.0",
     "@nestjs/testing": "^11.1.11",
     "@types/dockerode": "^3.3.31",
@@ -90,7 +90,7 @@
     "ts-node": "^10.0.0",
     "tsconfig-paths": "4.2.0",
     "typescript": "^4.7.4",
-    "webpack": "^5.91.0",
+    "webpack": "^5.104.1",
     "webpack-node-externals": "^3.0.0"
   },
   "lint-staged": {

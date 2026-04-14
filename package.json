@@ -33,7 +33,7 @@
     "@nestjs/config": "^3.2.3",
     "@nestjs/core": "^11.1.11",
     "@nestjs/event-emitter": "^3.0.1",
-    "@nestjs/microservices": "^11.1.11",
+    "@nestjs/microservices": "^11.1.19",
     "@nestjs/passport": "^10.0.0",
     "@nestjs/platform-express": "^11.1.11",
     "@nestjs/platform-socket.io": "^11.1.11",
